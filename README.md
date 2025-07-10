@@ -1,6 +1,5 @@
 ## Hi there 👋
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=10ncha&theme=radical)
-![snake animation](https://github.com/<10ncha>/<10ncha>/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 **10ncha/10ncha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
