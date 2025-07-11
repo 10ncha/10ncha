@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=10ncha&theme=radical)
-![Visitor Count](https://profile-counter.glitch.me/{10ncha}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/10ncha/count.svg)
 
 
 <!--
