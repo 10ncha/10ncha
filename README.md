@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=10ncha&theme=radical)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 <!--
 **10ncha/10ncha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
